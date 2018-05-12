@@ -1,0 +1,35 @@
+_repo: The-Ghost-Breaker--A-Novel-Based-Upon-the-Play_25781
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25781-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Goddard, Charles
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '1928'
+    url: http://www.gutenberg.org/2009/agents/1928
+    wikipedia: http://en.wikipedia.org/wiki/Charles_W._Goddard
+  - agent_name: Dickey, Paul
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '26687'
+    url: http://www.gutenberg.org/2009/agents/26687
+description: ''
+gutenberg_issued: '2008-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Treasure troves -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Americans -- Spain -- Fiction'
+- !lcsh 'Castles -- Fiction'
+title: 'The Ghost Breaker: A Novel Based Upon the Play'
+url: http://www.gutenberg.org/ebooks/25781
